@@ -50,6 +50,7 @@
 - **[Docker Desktop](https://www.docker.com/)** - Required for running the sandbox safely.
 - **[E2B](https://e2b.dev/)** - Secure cloud sandboxing for AI agents.
 - **[Model Context Protocol (MCP)](https://modelcontextprotocol.io/)** - The standard for connecting Claude to local data.
+- **[Cowork Tasks](https://github.com/sabbah13/cowork-tasks)** - Open-source kanban that auto-captures tasks from email, Slack, meetings, Linear and Jira.
 
 ## Video Demos
 
